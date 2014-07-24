@@ -1,0 +1,1 @@
+### How to Build ###```bashmvn clean package ```### How to Run ###```bashjava -jar target/stormpath-archetype-1.0.0-SNAPSHOT.jar```
